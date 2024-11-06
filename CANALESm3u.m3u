@@ -1,0 +1,51 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="US1400001WV" tvg-name="MLB Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20241028T235657SQUARE.png" group-title="News & Opinion",MLB Channel
+https://jmp2.uk/sam-US1400001WV.m3u8
+#EXTINF:-1 tvg-id="US2600007WJ" tvg-name="NFL Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20241022T004431SQUARE.png" group-title="News & Opinion",NFL Channel
+https://jmp2.uk/sam-US2600007WJ.m3u8
+#EXTINF:-1 tvg-id="USBC39000171G" tvg-name="ABC News Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20241105T024229SQUARE.png" group-title="News & Opinion",ABC News Live
+https://jmp2.uk/sam-USBC39000171G.m3u8
+#EXTINF:-1 tvg-id="USBC4400010RH" tvg-name="ABC7 Bay Area" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20240520T223244SQUARE.png" group-title="News & Opinion",ABC7 Bay Area
+https://jmp2.uk/sam-USBC4400010RH.m3u8
+#EXTINF:-1 tvg-id="US4000033L" tvg-name="BBC News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240520T223600SQUARE.png" group-title="News & Opinion",BBC News
+https://jmp2.uk/sam-US4000033L.m3u8
+#EXTINF:-1 tvg-id="USAJ30000041W" tvg-name="Bloomberg Originals" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000041W_20240924T225008SQUARE.png" group-title="News & Opinion",Bloomberg Originals
+https://jmp2.uk/sam-USAJ30000041W.m3u8
+#EXTINF:-1 tvg-id="USAJ3400011A8" tvg-name="Bloomberg TV+ UHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400011A8_20240520T222836SQUARE.png" group-title="News & Opinion",Bloomberg TV+ UHD
+https://jmp2.uk/sam-USAJ3400011A8.m3u8
+#EXTINF:-1 tvg-id="USBC4400003OU" tvg-name="CBC News International" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20240528T020901SQUARE.png" group-title="News & Opinion",CBC News International
+https://jmp2.uk/sam-USBC4400003OU.m3u8
+#EXTINF:-1 tvg-id="USBA370000104" tvg-name="CBS News 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" group-title="News & Opinion",CBS News 24/7
+https://jmp2.uk/sam-USBA370000104.m3u8
+#EXTINF:-1 tvg-id="USBD2700010WB" tvg-name="CBS News Bay Area" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700010WB_20240520T223302SQUARE.png" group-title="News & Opinion",CBS News Bay Area
+https://jmp2.uk/sam-USBD2700010WB.m3u8
+#EXTINF:-1 tvg-id="USBD2700019N0" tvg-name="FOX 2 San Francisco" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700019N0_20240520T223334SQUARE.png" group-title="News & Opinion",FOX 2 San Francisco
+https://jmp2.uk/sam-USBD2700019N0.m3u8
+#EXTINF:-1 tvg-id="USBD700003L7" tvg-name="FOX Weather" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20240520T222853SQUARE.png" group-title="News & Opinion",FOX Weather
+https://jmp2.uk/sam-USBD700003L7.m3u8
+#EXTINF:-1 tvg-id="USBA300024TN" tvg-name="LiveNOW from FOX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20241031T150121SQUARE.png" group-title="News & Opinion",LiveNOW from FOX
+https://jmp2.uk/sam-USBA300024TN.m3u8
+#EXTINF:-1 tvg-id="USBC3200005A0" tvg-name="NBC Bay Area News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20240528T010011SQUARE.png" group-title="News & Opinion",NBC Bay Area News
+https://jmp2.uk/sam-USBC3200005A0.m3u8
+#EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20241031T150132SQUARE.png" group-title="News & Opinion",NBC News NOW
+https://jmp2.uk/sam-USBB2200014DK.m3u8
+#EXTINF:-1 tvg-id="USBA300028QU" tvg-name="NEWSMAX2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20240520T222736SQUARE.png" group-title="News & Opinion",NEWSMAX2
+https://jmp2.uk/sam-USBA300028QU.m3u8
+#EXTINF:-1 tvg-id="USBB1900002KF" tvg-name="Real America's Voice" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900002KF_20240520T222747SQUARE.png" group-title="News & Opinion",Real America's Voice
+https://jmp2.uk/sam-USBB1900002KF.m3u8
+#EXTINF:-1 tvg-id="US3700004Y0" tvg-name="Salem News Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700004Y0_20241022T004434SQUARE.png" group-title="News & Opinion",Salem News Channel
+https://jmp2.uk/sam-US3700004Y0.m3u8
+#EXTINF:-1 tvg-id="USBD3000073N" tvg-name="Scripps News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20240520T223411SQUARE.png" group-title="News & Opinion",Scripps News
+https://jmp2.uk/sam-USBD3000073N.m3u8
+#EXTINF:-1 tvg-id="USBB52000022Q" tvg-name="Sky News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20241015T223528SQUARE.png" group-title="News & Opinion",Sky News
+https://jmp2.uk/sam-USBB52000022Q.m3u8
+#EXTINF:-1 tvg-id="US1000016Q" tvg-name="The First" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000016Q_20240520T223423SQUARE.png" group-title="News & Opinion",The First
+https://jmp2.uk/sam-US1000016Q.m3u8
+#EXTINF:-1 tvg-id="US3300008FX" tvg-name="The Hill" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300008FX_20241022T004442SQUARE.png" group-title="News & Opinion",The Hill
+https://jmp2.uk/sam-US3300008FX.m3u8
+#EXTINF:-1 tvg-id="USBA30002142" tvg-name="TYT Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30002142_20240520T222804SQUARE.png" group-title="News & Opinion",TYT Network
+https://jmp2.uk/sam-USBA30002142.m3u8
+#EXTINF:-1 tvg-id="USBB3600008BU" tvg-name="WN San Francisco" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600008BU_20240520T223443SQUARE.png" group-title="News & Opinion",WN San Francisco
+https://jmp2.uk/sam-USBB3600008BU.m3u8
+#EXTINF:-1 tvg-id="USAJ4300005PJ" tvg-name="Yahoo Finance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20240520T222814SQUARE.png" group-title="News & Opinion",Yahoo Finance
+https://jmp2.uk/sam-USAJ4300005PJ.m3u8
